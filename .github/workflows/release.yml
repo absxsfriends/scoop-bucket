@@ -33,7 +33,10 @@ jobs:
           - target: x86_64-pc-windows-msvc
             os: windows-latest
     runs-on: ${{ matrix.os }}
+    env:
+      PKG_CONFIG_SYSROOT_DIR: /
     steps:
+      - run: apt-get update && apt-get install libssl-dev
       - uses: actions/checkout@v4
       - name: Set up nightly
         uses: actions-rs/toolchain@v1
@@ -45,7 +48,6 @@ jobs:
         with:
           target: ${{ matrix.target }}
       - uses: taiki-e/upload-rust-binary-action@v1
-        working-directory: ./auto-update
         with:
           # (required) Comma-separated list of binary names (non-extension portion of filename) to build and upload.
           # Note that glob pattern is not supported yet.
