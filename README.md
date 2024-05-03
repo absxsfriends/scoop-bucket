@@ -19,9 +19,10 @@ scoop install urldecoder
 ## Content/内容
 
 <!-- prettier-ignore -->
-| App |
-| :-: |
-|[urldecoder](https://github.com/lxl66566/urldecoder)|
-|[wordinfo](https://github.com/lxl66566/wordinfo)|
-|[Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it)|
-|[openppp2-client](https://github.com/lxl66566/openppp2-client)|
+| App | Description |
+| :-: | :-: |
+|[urldecoder](https://github.com/lxl66566/urldecoder)|Decode URLs in your files!|
+|[wordinfo](https://github.com/lxl66566/wordinfo)|A CLI tool to info words' meaning from web|
+|[Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it)|Force delete file/folder on Windows, kill occupying processes.|
+|[openppp2-client](https://github.com/lxl66566/openppp2-client)|unofficial openppp2 client|
+|[git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt)|An extremely simple-to-use, user-friendly git encrypt solution.|
