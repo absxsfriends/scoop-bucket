@@ -21,6 +21,7 @@ scoop install urldecoder
 <!-- prettier-ignore -->
 | App | Description |
 | :-: | :-: |
+|[wordsreciter](https://github.com/lxl66566/wordsreciter)|背词器，快速记词|
 |[urldecoder](https://github.com/lxl66566/urldecoder)|Decode URLs in your files!|
 |[wordinfo](https://github.com/lxl66566/wordinfo)|A CLI tool to info words' meaning from web|
 |[Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it)|Force delete file/folder on Windows, kill occupying processes.|
