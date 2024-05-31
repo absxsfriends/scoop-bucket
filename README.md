@@ -27,3 +27,4 @@ scoop install urldecoder
 |[Fuck, delete it!](https://github.com/lxl66566/fuck-delete-it)|Force delete file/folder on Windows, kill occupying processes.|
 |[openppp2-client](https://github.com/lxl66566/openppp2-client)|unofficial openppp2 client|
 |[git-simple-encrypt](https://github.com/lxl66566/git-simple-encrypt)|An extremely simple-to-use, user-friendly git encrypt solution.|
+|[chnroutes-rs](https://github.com/lxl66566/chnroutes-rs)|Rust version of chnroutes (with more features), to bypass the VPN accessing CN IPs.|
